@@ -1,5 +1,5 @@
 
-# Twitter Automated Tweet
+# Twitter Automated Complaint Bot
 
 There are many issues that people face and complain via customer service or on twitter and get fair actions done from the respective companies. But going on a social media platform and complaining must be tiering for some people like me. 
 
